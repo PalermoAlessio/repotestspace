@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "description": "Il progetto consiste nella realizzazione di un sistema di conversione numerica multi-formato che riceve in input numeri espressi in diverse notazioni e restituisce il corrispondente valore in notazione araba (decimale). Il sistema gestisce **due formati di input: numeri romani (es. XIV, MCMXC) e numeri binari (es. 1010, 11001)**. Per i numeri romani, implementa la logica di interpretazione delle regole classiche, gestendo i simboli base (I, V, X, L, C, D, M) e le convenzioni sottrattive (come IV per 4, IX per 9). **Per i numeri binari, effettua la conversione dalla base 2 alla base 10**. L'obiettivo è fornire una conversione accurata e affidabile tra questi diversi sistemi numerici verso il formato arabo/decimale.",
+  "last_updated": "2025-10-25T20:37:22.619855Z",
+  "iteration": 2
+}
