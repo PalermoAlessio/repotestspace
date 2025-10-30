@@ -1,6 +1,0 @@
-{
-  "version": 1,
-  "description": "Il progetto consiste nella realizzazione di un sistema di conversione numerica che riceve in input numeri espressi in notazione romana (es. XIV, MCMXC) e restituisce il corrispondente valore in notazione araba (es. 14, 1990). Il sistema implementa la logica di interpretazione delle regole romane, gestendo i simboli base (I, V, X, L, C, D, M) e le convenzioni sottrattive (come IV per 4, IX per 9). L'obiettivo è fornire una conversione accurata e affidabile tra i due sistemi numerici.",
-  "last_updated": "2025-10-25T20:20:53.379342Z",
-  "iteration": 1
-}
