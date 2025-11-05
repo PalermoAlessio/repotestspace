@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "description": "## Descrizione del Progetto (v1)\n\nIl progetto consiste nello sviluppo di un sistema di conversione numerica che trasforma rappresentazioni in numeri romani in corrispondenti valori arabi (decimali). Il sistema dovrà interpretare le sequenze di simboli romani (I, V, X, L, C, D, M) applicando le regole di composizione del sistema numerico romano, inclusi i casi di sottrazione (come IV per 4, IX per 9) e gestendo la validazione dell'input per garantire che le stringhe fornite rappresentino numeri romani validi.",
+  "last_updated": "2025-10-30T18:48:42.600696Z",
+  "iteration": 1
+}
